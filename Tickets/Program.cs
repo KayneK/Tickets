@@ -13,6 +13,8 @@ namespace Tickets
           
             ConcertTicket ct1 = new ConcertTicket(40, "The Band", "A1", "Amy");
             ConcertTicket ct2 = new ConcertTicket(10, "The Band", "Bill");
+            ConcertTicket ct2 = new ConcertTicket(25, "The Band", "Charlie");
+
 
 
             Concert NewConcert = new Concert("The Band");
